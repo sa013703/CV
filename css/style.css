@@ -1,0 +1,24 @@
+h3 {
+    background-color: steelblue;
+    color: white;
+    padding: 5px;
+}
+
+body {
+    background-color:#cbf1f5;
+    font-family:'Times New Roman', Times, serif
+}
+.style1{
+    background-color:#F38181;
+    font-size: 16px;
+    text-align:center
+}
+.img-style1{
+    border: 1px solid #ddd;
+    border: radius 4px;
+    padding:10px
+    background-color:#cbf1f5
+    width: 100px;height:125px
+
+}
+#main{background-color:cornflowerblue;}
